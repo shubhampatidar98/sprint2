@@ -1,0 +1,32 @@
+{margin:0;
+    padding:0;}
+ 
+  body{height: 100vh;
+        background-color: rgb(39, 97, 97);
+        background-image: url(image/oswego_sunset.jpg);
+        background-repeat: no-repeat ;
+        background-size: cover; }
+     bar{background-color:rgb(67, 65, 61);
+          color: white;}
+ 
+ .navbar{background-color: white(137, 65, 65);
+         color: white;
+     }
+     ul{display: flex;
+     }
+     a{list-style-position: initial;;
+       padding-left: 30px;
+     padding-top: 20px; 
+     font-size: 20px; 
+     
+    }
+    
+.card{position: -ms-page ;}
+ 
+ 
+      
+ .container{height: 100px;
+    bottom: 3px solid red;
+       margin-top: 100px;
+        display: flex;}
+ 
